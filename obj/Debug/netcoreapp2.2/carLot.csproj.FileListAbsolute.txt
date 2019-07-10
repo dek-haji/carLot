@@ -1,0 +1,11 @@
+/Users/dekhaji/workspace/csharp/carLot/bin/Debug/netcoreapp2.2/carLot.deps.json
+/Users/dekhaji/workspace/csharp/carLot/bin/Debug/netcoreapp2.2/carLot.runtimeconfig.json
+/Users/dekhaji/workspace/csharp/carLot/bin/Debug/netcoreapp2.2/carLot.runtimeconfig.dev.json
+/Users/dekhaji/workspace/csharp/carLot/bin/Debug/netcoreapp2.2/carLot.dll
+/Users/dekhaji/workspace/csharp/carLot/bin/Debug/netcoreapp2.2/carLot.pdb
+/Users/dekhaji/workspace/csharp/carLot/obj/Debug/netcoreapp2.2/carLot.csprojAssemblyReference.cache
+/Users/dekhaji/workspace/csharp/carLot/obj/Debug/netcoreapp2.2/carLot.csproj.CoreCompileInputs.cache
+/Users/dekhaji/workspace/csharp/carLot/obj/Debug/netcoreapp2.2/carLot.AssemblyInfoInputs.cache
+/Users/dekhaji/workspace/csharp/carLot/obj/Debug/netcoreapp2.2/carLot.AssemblyInfo.cs
+/Users/dekhaji/workspace/csharp/carLot/obj/Debug/netcoreapp2.2/carLot.dll
+/Users/dekhaji/workspace/csharp/carLot/obj/Debug/netcoreapp2.2/carLot.pdb
